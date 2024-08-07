@@ -6,11 +6,11 @@
 ---
 
 <h1 align="left">❐ The Demo</h1>
-Check out the live demo of the website: https://himdeunn.github.io/Thesis/
+Check out the live demo of the website: https://himdeunn.github.io/FuShop/
 
 <h1 align="left">❐ The Result</h1>
 <div align="center">
-  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270391749973643275/image.png?ex=66b38803&is=66b23683&hm=afc309898ef52f87544e6b99e3636a1e9ec604a90d61438eb58564a3fa83645e&" alt="Futuristic Banner" width="100%" />
+  <img src="https://cdn.discordapp.com/attachments/1248487182021300236/1270607104608309310/Screenshot_2024-08-07_114753.png?ex=66b45094&is=66b2ff14&hm=b36716fb1874eadbd82200bf95e594e83a88cd7bdd7bbb7b26493f317ccef87d&" alt="Futuristic Banner" width="100%" />
 </div>
 
 <h1 align="left">❐ The Installation</h1>
