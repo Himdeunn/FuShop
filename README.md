@@ -1,6 +1,6 @@
-<h1 align="center">⌜ The Peace Travel | Web Design ⌟</h1>
+<h1 align="center">⌜ FuShop | Web Design ⌟</h1>
 <p align="center">
-    The Peace Travel, the cutting-edge frontend codebase for a premium and eco-conscious travel experience. Embark on a journey where advanced luxury seamlessly integrates with sustainable innovation.
+    FuShop is a frontend project for an online shopping platform. The project is designed to provide an intuitive and responsive user experience. We focus on the UI design and frontend features without involving backend development.
 </p>
 
 ---
@@ -18,8 +18,8 @@ Check out the live demo of the website: https://himdeunn.github.io/FuShop/
 Get started with the project by following these steps:
 
 ```bash
-➥ git clone https://github.com/Himdeunn/Thesis.git
-➥ cd the-peace-travel
+➥ git clone https://github.com/Himdeunn/FuShop.git
+➥ cd FuShop
 ➥ code . (if you use terminal)
 ```
 
